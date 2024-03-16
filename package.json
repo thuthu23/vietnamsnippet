@@ -1,6 +1,6 @@
 {
   "name": "vietnam-snippet",
-  "version": "1.2.2",
+  "version": "1.2.7",
   "description": "This could include features like tagging, searching, and integration with popular code editors.",
   "main": "./src/index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   "author": "Whalepiz",
   "license": "MIT",
   "dependencies": {
-    "markdownintopdf": "^1.2.2"
+    "markdownintopdf": "^1.2.7"
   }
 }
